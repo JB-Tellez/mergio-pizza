@@ -1,2 +1,4 @@
 mozzarella
 sausage
+pepperoni
+olives
